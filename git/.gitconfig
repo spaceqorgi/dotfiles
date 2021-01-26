@@ -1,3 +1,5 @@
 [user]
 	name = subaru304
 	email = subaru304@pm.me
+[core]
+	excludesfile = /Users/corgi/.gitignore
